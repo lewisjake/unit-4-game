@@ -1,0 +1,67 @@
+#crystal-one{
+    width: 100px;
+    height: 100px;
+}
+#crystal-two{
+    width: 100px;
+    height: 100px;
+}
+#crystal-three{   
+    width: 100px;
+    height: 100px;
+}
+#crystal-four{
+    width: 100px;
+    height: 100px;
+}
+#target-score{
+    background-color: deeppink;
+    color: white;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+#wins{
+    background-color: turquoise;
+    color: white;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+#losses{
+    background-color: deeppink;
+    color: white;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+#instructions{
+    background-color: turquoise;
+    color: white;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+#total-score-text{
+    background-color: turquoise;
+    color: white;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+#player-score{
+    background-color: deeppink;
+    color: white;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.jumbotron{
+    background-color: deeppink !important;
+    color: white;
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+}
+body{
+    background-color: gold !important;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#game-stats{
+    margin-left: 300px;
+    margin-right: 300px;
+    color: white;
+}
