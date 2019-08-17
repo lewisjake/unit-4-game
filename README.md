@@ -1,1 +1,2 @@
 # unit-4-game
+This app utilizes the random number function to produce a number. It then takes those numbers and assigns them to variables. The user is tasked with clicking on 4 different crystals without knowing their values. Upon discovering what the value of each different crystal is, the user must continue clicking (adding) the crystals until the value equals the number the computer generated. 
